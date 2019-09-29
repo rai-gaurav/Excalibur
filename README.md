@@ -11,3 +11,9 @@ Harness the power od [osquery](https://github.com/osquery/osquery) and perform M
 2. Kafka
 3. Mojolicious Web Framwork (Perl)
 4. React.js
+
+
+# Other inspiration
+
+https://www.uptycs.com/blog/deploying-osquery-at-scale-a-comprehensive-list-of-open-source-tools
+https://holdmybeersecurity.com/2019/04/25/detecting-malicious-downloads-with-osquery-rsyslog-kafka-python3-and-virustotal/
