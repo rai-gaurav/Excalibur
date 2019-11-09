@@ -10,7 +10,9 @@ Harness the power of [osquery](https://github.com/osquery/osquery) and perform M
 1. OsQuery
 2. Kafka
 3. Mojolicious Web Framwork (Perl)
-4. React.js
+4. PostgreSQL
+5. OpenAPI (Swagger)
+6. React.js
 
 
 # Other inspiration
