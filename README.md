@@ -7,13 +7,13 @@ Harness the power of [osquery](https://github.com/osquery/osquery) and perform M
 
 # Technology Stack
 
-1. OsQuery
-2. Kafka
-3. Mojolicious Web Framwork (Perl)
-4. PostgreSQL/NoSQL - Database
-5. Microsoft Teams/ Slack API for notification
-6. OpenAPI (Swagger)
-7. React.js/Vue.js for UI
+1. [OsQuery](https://github.com/osquery/osquery)
+2. [Kafka](https://github.com/apache/kafka)
+3. [Mojolicious Web Framwork (Perl)](https://github.com/mojolicious/mojo)
+4. [PostgreSQL](https://github.com/postgres/postgres) or any NoSQL - Database
+5. [Microsoft Teams](https://docs.microsoft.com/en-us/graph/teams-concept-overview)/ [Slack](https://api.slack.com/) API for notification
+6. [OpenAPI](https://github.com/OAI/OpenAPI-Specification)/ [Swagger](https://github.com/swagger-api/swagger-core)
+7. [React.js](https://github.com/facebook/react)/[Vue.js](https://github.com/vuejs/vue) for UI
 
 
 # Other inspiration
